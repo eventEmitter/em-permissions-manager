@@ -1,6 +1,6 @@
 # em-permissions-manager
 
-*** not yet satble! ***
+*** not yet stable! ***
 
 permissions middleware for ee-webservice. get, add & modify persmissions & roles for resources and users. requires a sessionmiddleware with the interface specified in em-sessions-manager.
 
