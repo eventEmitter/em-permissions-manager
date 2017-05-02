@@ -1,5 +1,7 @@
 # em-permissions-manager
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/em-permissions-manager.svg)](https://greenkeeper.io/)
+
 *** not yet stable! ***
 
 permissions middleware for ee-webservice. get, add & modify persmissions & roles for resources and users. requires a sessionmiddleware with the interface specified in em-sessions-manager.
